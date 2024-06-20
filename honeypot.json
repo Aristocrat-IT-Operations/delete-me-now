@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloud-architect-sandbox-7a42",
+  "private_key_id": "5b1da913f67ddf29c312a9f70bd40d8729e2adb5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7bsJMVn0dRJ2u\nYd3IbIHU6FED0cX387xzTYlVFE7bW699vP1DwDpp+SMfrSnNk+lTLFNl+wkX8f7/\nnN/X4vLP7+1Z14RZqrfv2Q/olhmWCyUxXI33VkbIEV67l6VMGU+4AHgH0n6MESDU\n15XIvuKZsXgfs7Ifbs0727dCuAfUBCMQBJY65QPlmyV7IKJF7Mtp5Yc0Pn5U7Iah\nOwcZUiWjqrsjYzYVZAhNz84rKRtf7oFYvl56BvfStwDANNwW+DPWdmckniaMVvDY\nIsPgG2ScPz5aKTqAfe/eEMHoSvCxe5eliqoymTyR1dhMRH3kadAJrIUH02EkJuP/\nLj4AlPALAgMBAAECggEAPHAcFfqDkIb6I2tqVQDsIoeg7A7d+7Sr7TAw2u7X+LLJ\nVU22Cv02uMo9sa6oPqJ1x7yQzd8TURXW6Hygz1/edP+ENQaiJjm+4wfGsfSInpHM\ndezG2F0JKOU0+1+MTQwSYR5BliAhby/susUjht5Kek24EtziUHFtm2IfZ1OpLotz\no5EgfSUjuxLpLmaPPSSr/7aw5srhmiM2BOnCr/1MGZlFV6inHlefXw22BYakYrr4\nhd8mmCU4arQbw7Hcd6tzYtvmjKyDoREwQFYtofCkWx6UG1ZSsvb3Owtz+fBsTy8G\ncahyFPXGhBV4j7qkWTRsBaTu/AI4ANV5Ie05hUTmPQKBgQDg8r92auOzT+ZwcWkN\nmP9j0MYA9z0vdtdSpgr6zrxuDI0s3Cs1mwtzz6l5+z02wiAO8g7+Tbn5iBIKrP0W\n8g0lRjb+bqtstwnrqMi/uKybxBdaXe0tSbkf5ypfgQnqYQ44qMH09zU3YUQ/AX9X\n871kn0kH0Nauefq3x5SRxMVKBQKBgQDVTke78nZD56S/+SFMXtEtX5XPf4gxcsXZ\nHkpxe6QNk7gSM3Ld38xW2Sxzm6+dWFJwPA9IcCRCVL26kTVbgNpHPDou1DVQKVN5\nIlw0A+MG/gZtyJZTNJSJGOCqkvTlop99yQD+MKENFW72hn71YHVoL7b9Wg4G4xEB\n5FYNhxOezwKBgFpR3YJkhKyYpkP7pVyqU9D2IKp+mviV1PsAZGQz4gCl1YFvnYHW\nkRCdDsVFlVyJMWoO0upUtxl0Axp6PtyZr6GJwccDFJ2AGOGgUYp5UgTxBRdpozON\n6GDg5miWXS7YbWdeixIauClWSpqptUHRQfhG5IHY3noLzBlCb2rgAP8pAoGBAJzr\nssAktjZscno8N+/sDSy5FggJhVMDYWPB8fgcgmrukkrpiIaLftMhf58pGH/Dmxow\nRPoAbdxSZSWcb8l6OJqRRyhuOy5WyK7jxTsK5Pie5nHbUCO0GdXl9FnoNLu+8GBk\nABQACGsMqo44EaxIovbbq14k4w7T+w4OQfQ/vAJnAoGAaf6Habc9tfrj85qBuGDO\noR7JRJyHm2RstWYgCRetX6EruTo/qLjsYYalMb7/RSuQGPfHkbI7yq6xhccXZC/v\nmTl4Rb2A2syPuLBavzNUjYJwwN/6MSiYKJ5reRyOSMvhYxGJIh7cV9uNYPqJxofe\n6BMzRhqFwbopBXupD+DC38I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "rtaylor-google-cant-catch-me@cloud-architect-sandbox-7a42.iam.gserviceaccount.com",
+  "client_id": "102372573078681950712",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/rtaylor-google-cant-catch-me%40cloud-architect-sandbox-7a42.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
